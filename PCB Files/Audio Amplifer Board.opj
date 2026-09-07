@@ -1,0 +1,220 @@
+(ExpressProject "Audio Amplifer Board"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "24.1 S005 (4301626)  [6/2/2025]-[10/06/25]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\audio amplifer board.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    ("Allegro Netlist Output Board File" ".\allegro\audio amplifer board.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ORCADX")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (PSPICE_Regenerate_Netlist_Flag "TRUE"))
+  (Folder "Layout"
+    (File ".\allegro\audio amplifer board.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\audio amplifer board.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1"))
+    (File ".\allegro\retry_allegro_board.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\retry_allegro_board.brd")
+      (NetListPath ".\retry allegro")
+      (ActiveBoard "0")))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\retry allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\retry allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\retry allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\retrying allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\retrying allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\retrying allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (ActiveProfile ".\audio amplifer board-pspicefiles\schematic1\sim.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\audio amplifer board-pspicefiles\schematic1\sim.sim"
+        (DisplayName "SCHEMATIC1-Sim")
+        (Type "PSpice Profile")))
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "C:\Users\bill1\OneDrive\Desktop\Audio Amplifer Board\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "C:\Users\bill1\OneDrive\Desktop\Audio Amplifer Board\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "C:\Users\bill1\OneDrive\Desktop\Audio Amplifer Board\allegro\eco.txt"))
+    (File ".\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile
+         "C:\Users\bill1\OneDrive\Desktop\Audio Amplifer Board\allegro\genfeed.log"))
+    (File ".\retry allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "C:\USERS\BILL1\ONEDRIVE\DESKTOP\AUDIO AMPLIFER BOARD\Retry allegro\netlist.log"))
+    (File ".\retry allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "C:\USERS\BILL1\ONEDRIVE\DESKTOP\AUDIO AMPLIFER BOARD\Retry allegro\netrev.lst"))
+    (File ".\retry allegro\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "C:\USERS\BILL1\ONEDRIVE\DESKTOP\AUDIO AMPLIFER BOARD\Retry allegro\eco.txt"))
+    (File ".\retrying allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "C:\USERS\BILL1\ONEDRIVE\DESKTOP\AUDIO AMPLIFER BOARD\retrying allegro\netlist.log"))
+    (File ".\retrying allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "C:\USERS\BILL1\ONEDRIVE\DESKTOP\AUDIO AMPLIFER BOARD\retrying allegro\netrev.lst"))
+    (File ".\retrying allegro\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "C:\USERS\BILL1\ONEDRIVE\DESKTOP\AUDIO AMPLIFER BOARD\retrying allegro\eco.txt"))
+    (File ".\retrying allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile
+         "C:\USERS\BILL1\ONEDRIVE\DESKTOP\AUDIO AMPLIFER BOARD\retrying allegro\genfeed.log")))
+  (PartMRUSelector
+    (RNF14FTD10R0
+      (FullPartName "RNF14FTD10R0.Normal")
+      (LibraryName
+         "C:\USERS\BILL1\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1758648256\ORCADCAPTUREXML\RNF14FTD10R0TR-ND.OLB")
+      (DeviceIndex "0"))
+    (CFM14JT470R
+      (FullPartName "CFM14JT470R.Normal")
+      (LibraryName
+         "C:\USERS\BILL1\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1758525143\ORCADCAPTUREXML\S470QTR-ND.OLB")
+      (DeviceIndex "0"))
+    (CF12JT470R
+      (FullPartName "CF12JT470R.Normal")
+      (LibraryName
+         "C:\USERS\BILL1\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1758503150\ORCADCAPTUREXML\CF12JT470RTR-ND.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND_POWER
+      (LibraryName "C:\CADENCE\ORCADX_24.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (233
+      (FullPartName "233.Normal")
+      (LibraryName
+         "C:\USERS\BILL1\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1758500009\ORCADCAPTUREXML\36-233-ND.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "C:\USERS\BILL1\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SNAPEDA_PART_1758498808\WL-TMRC_3MM.OLB")
+      (DeviceIndex "0"))
+    (PDB182-K420K-103A2
+      (FullPartName "PDB182-K420K-103A2.Normal")
+      (LibraryName
+         "C:\USERS\BILL1\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1758498348\ORCADCAPTUREXML\PDB182-K420K-103A2-ND.OLB")
+      (DeviceIndex "0"))
+    (SP3AJT10R0
+      (FullPartName "SP3AJT10R0.Normal")
+      (LibraryName
+         "C:\USERS\BILL1\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1758498205\ORCADCAPTUREXML\SP3AJT10R0TR-ND.OLB")
+      (DeviceIndex "0"))
+    (C327C473K3G5TA
+      (FullPartName "C327C473K3G5TA.Normal")
+      (LibraryName
+         "C:\USERS\BILL1\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1758498135\ORCADCAPTUREXML\C327C473K3G5TA-ND.OLB")
+      (DeviceIndex "0"))
+    (35ZLH220MEFC8X11P5
+      (FullPartName "35ZLH220MEFC8X11P5.Normal")
+      (LibraryName
+         "C:\USERS\BILL1\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1758498084\ORCADCAPTUREXML\1189-1863-ND.OLB")
+      (DeviceIndex "0"))
+    (35YXJ100M6P3X11
+      (FullPartName "35YXJ100M6P3X11.Normal")
+      (LibraryName
+         "C:\USERS\BILL1\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1758498011\ORCADCAPTUREXML\1189-2260-ND.OLB")
+      (DeviceIndex "0"))
+    (1699670000
+      (FullPartName "1699670000.Normal")
+      (LibraryName
+         "C:\USERS\BILL1\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1758145200\1699670000\CAPTURE\1699670000.OLB")
+      (DeviceIndex "0"))
+    (LM386N-1_NOPB
+      (FullPartName "LM386N-1_NOPB.Normal")
+      (LibraryName
+         "C:\USERS\BILL1\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1758145101\LM386N-1_NOPB\CAPTURE\LM386N-1_NOPB.OLB")
+      (DeviceIndex "0"))
+    (PRT-08032
+      (FullPartName "PRT-08032.Normal")
+      (LibraryName
+         "C:\USERS\BILL1\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\24.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1758144767\PRT-08032\CAPTURE\PRT-08032.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\bill1\onedrive\desktop\audio amplifer board\audio amplifer board.dsn")
+      (Path "Design Resources"
+         "c:\users\bill1\onedrive\desktop\audio amplifer board\audio amplifer board.dsn"
+         "SCHEMATIC1")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 807"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1461 24 825")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\BILL1\ONEDRIVE\DESKTOP\AUDIO AMPLIFER BOARD\AUDIO AMPLIFER BOARD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "bill1"))
