@@ -16,13 +16,13 @@ Audio amplifier PCB designed with Cadence OrCAD and Allegro. The project include
 - Custom schematic and PCB layout
 - Designed using Cadence OrCAD and Allegro
 - Gerber files included for PCB fabrication
-- Complete source design files included
+- Original source design files included
 
 ## Design
 
 The schematic was created in Cadence OrCAD Capture and the PCB layout was completed in Cadence Allegro PCB Editor.
 
-The repository includes the original design files along with Gerber fabrication files.
+The repository includes the original project files along with the Gerber fabrication files.
 
 ## Files
 
