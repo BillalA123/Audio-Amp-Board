@@ -1,15 +1,24 @@
 # Audio Amp Board
 
-An audio amplifier PCB project designed with Cadence OrCAD and Allegro. This repository includes the design source files, Gerber files, and PDF reference documents.
+Audio amplifier PCB designed with Cadence OrCAD and Allegro. This repository includes the schematic, PCB layout, design source files, and Gerber files for fabrication.
+
+## PCB Layout
+
+![Audio Amp PCB Layout](Images/Layout.png)
+
+## Schematic
+
+![Audio Amp Schematic](Images/Schematic.png)
 
 ## Files
 
-- `PCB Files/Audio Amplifer Board.opj` — OrCAD project file.
-- `PCB Files/AUDIO AMPLIFER BOARD.DSN` — OrCAD schematic design.
-- `PCB Files/Retry_Allegro_board.brd` — Allegro PCB layout.
-- `Gerber Files.zip` — Gerber files for PCB fabrication.
-- `*.pdf` — Supporting reference documents.
+- `PCB Files/Audio Amplifer Board.opj` - OrCAD project file
+- `PCB Files/AUDIO AMPLIFER BOARD.DSN` - OrCAD schematic design
+- `PCB Files/Retry_Allegro_board.brd` - Allegro PCB layout
+- `Gerber Files.zip` - Gerber files for PCB fabrication
+- `*.pdf` - Supporting reference documents
 
-## Getting Started
+## Design Software
 
-Open the `.opj` file in OrCAD Capture to view the schematic, or the `.brd` file in Allegro PCB Editor to view the board layout. Review the design and fabrication files before ordering a PCB.
+- Cadence OrCAD Capture
+- Cadence Allegro PCB Editor
