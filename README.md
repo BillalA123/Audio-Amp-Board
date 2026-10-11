@@ -25,13 +25,6 @@ The schematic was created in Cadence OrCAD Capture and the PCB layout was comple
 
 The repository includes the original project files along with the Gerber fabrication files.
 
-## Files
-
-- `PCB Files/Audio Amplifer Board.opj` - OrCAD project file
-- `PCB Files/AUDIO AMPLIFER BOARD.DSN` - OrCAD schematic design
-- `PCB Files/Retry_Allegro_board.brd` - Allegro PCB layout
-- `Gerber Files.zip` - Gerber files for PCB fabrication
-
 ## Design Software
 
 - Cadence OrCAD Capture
