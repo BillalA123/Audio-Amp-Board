@@ -1,7 +1,7 @@
 
 # Audio Amp Board
 
-This was one of the first PCBs I designed! It's an analog audio amplifier, with independent amplification for each speaker and a 20× voltage gain (26 dB). The board features adjustable volume control, RC filtering networks, and power supply filtering. I designed the schematic using Cadence OrCAD and completed the PCB layout in Cadence Allegro.
+This was one of the first PCBs I designed! It's an analog audio amplifier, with independent amplification for each speaker and a 20X voltage gain (26 dB). The board features adjustable volume control, RC filtering networks, and power supply filtering. I designed the schematic using Cadence OrCAD and completed the PCB layout in Cadence Allegro.
 
 ## PCB
 
