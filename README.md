@@ -1,7 +1,7 @@
 
 # Audio Amp Board
 
-This was one of the first PCBs I designed! It's an audio amplifier board created using Cadence OrCAD and Allegro. The project includes the schematic, PCB layout, source design files, and Gerber files for fabrication.
+This was one of the first PCBs I designed! It's an analog audio amplifier, with independent amplification for each speaker and a 20× voltage gain (26 dB). The board features adjustable volume control, RC filtering networks, and power supply filtering. I designed the schematic using Cadence OrCAD and completed the PCB layout in Cadence Allegro.
 
 ## PCB
 
@@ -13,11 +13,12 @@ This was one of the first PCBs I designed! It's an audio amplifier board created
 
 ## Features
 
-- Audio amplifier PCB design
-- Custom schematic and PCB layout
-- Designed using Cadence OrCAD and Allegro
-- Gerber files included for PCB fabrication
-- Original source design files included
+- Dual LM386 ICs for independent stereo audio amplification
+- 20X voltage gain (26 dB) per channel
+- Adjustable analog volume control
+- 3.5 mm stereo audio input
+- RC output stabilization networks
+- Power supply filtering and decoupling capacitors
 
 ## Design
 
@@ -25,7 +26,3 @@ The schematic was created in Cadence OrCAD Capture and the PCB layout was comple
 
 The repository includes the original project files along with the Gerber fabrication files.
 
-## Design Software
-
-- Cadence OrCAD Capture
-- Cadence Allegro PCB Editor
