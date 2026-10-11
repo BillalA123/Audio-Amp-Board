@@ -1,7 +1,7 @@
 
 # Audio Amp Board
 
-Audio amplifier PCB designed with Cadence OrCAD and Allegro. The project includes the schematic, PCB layout, source design files, and Gerber files for fabrication.
+This was one of the first PCBs I designed, an audio amplifier board created using Cadence OrCAD and Allegro. The project includes the schematic, PCB layout, source design files, and Gerber files for fabrication.
 
 ## PCB
 
