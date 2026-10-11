@@ -1,10 +1,11 @@
+
 # Audio Amp Board
 
 Audio amplifier PCB designed with Cadence OrCAD and Allegro. The project includes the schematic, PCB layout, source design files, and Gerber files for fabrication.
 
-## PCB Layout
+## PCB
 
-![Audio Amp PCB Layout](Images/Layout.png)
+![Audio Amp PCB](Images/Audio%20Amp%20PCB.jpeg)
 
 ## Schematic
 
